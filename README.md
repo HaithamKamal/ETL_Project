@@ -10,6 +10,11 @@ We used 2 different datasets from the public platform Open Minneapolis which lea
 * Neighborhood
 * Zip code
 
+IRS Data:
+*Zip code
+*Number of returns
+*Income
+
 The following sources for our datasets used:
 
 https://opendata.minneapolismn.gov/datasets/police-incidents-2015 - For police incidents
